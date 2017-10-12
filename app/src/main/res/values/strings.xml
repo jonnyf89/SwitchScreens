@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwitchScreens</string>
+    <string name="btnGoToSecondScreenText">Go To Second Screen</string>
+    <string name="btnGoToFirstScreen">Go To First Screen</string>
+</resources>
